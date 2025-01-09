@@ -83,8 +83,10 @@ hosting/.cache
 /.firebase/
 /emulator-ui/
 
-# Firebase options
+# Firebase keys
 lib/firebase_options.dart
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
 
 # Logs
 *.log
