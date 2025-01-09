@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332418365050",
+    "project_id": "fratelli-scuola-2bccb",
+    "storage_bucket": "fratelli-scuola-2bccb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332418365050:android:04971c761d8a2f0a572dc3",
+        "android_client_info": {
+          "package_name": "com.fratelli.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj3W0_HORI8BXqUBBu0LEp32iw0IsTR9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
