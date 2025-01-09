@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyByYZS9Bt5b14gJiDoLnfXIo9kUQOcsf8Q',
+    apiKey: '',
     appId: '1:332418365050:web:4239dcf678513640572dc3',
     messagingSenderId: '332418365050',
     projectId: 'fratelli-scuola-2bccb',
@@ -57,7 +57,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCj3W0_HORI8BXqUBBu0LEp32iw0IsTR9Q',
+    apiKey: '',
     appId: '1:332418365050:android:04971c761d8a2f0a572dc3',
     messagingSenderId: '332418365050',
     projectId: 'fratelli-scuola-2bccb',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDfNmGrtsGoxAcnHu4ckONFb2OM9aSUd-w',
+    apiKey: '',
     appId: '1:332418365050:ios:2774ed32d7bf1e79572dc3',
     messagingSenderId: '332418365050',
     projectId: 'fratelli-scuola-2bccb',
