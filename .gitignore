@@ -83,6 +83,9 @@ hosting/.cache
 /.firebase/
 /emulator-ui/
 
+# Firebase options
+lib/firebase_options.dart
+
 # Logs
 *.log
 npm-debug.log*
